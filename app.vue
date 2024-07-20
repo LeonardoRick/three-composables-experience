@@ -1,0 +1,3 @@
+<template>
+  <ThreeLeonardoRick />
+</template>
